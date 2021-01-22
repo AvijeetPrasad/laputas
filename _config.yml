@@ -6,4 +6,4 @@ description: A blog about Life, Universe and Everything!
 github_username: AvijeetPrasad
 
 # Build settings
-theme: jekyll-theme-slate
+remote_theme: jekyll-theme-slate
