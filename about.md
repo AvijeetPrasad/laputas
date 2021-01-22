@@ -3,14 +3,12 @@ layout: default
 title: About
 ---
 
-Some Markdown content describing your site.
+Here we plan to write blogs on various topics in physics.
+We intend to write it for a very general audience. 
+We have divided the content in three levels:
 
-## About About Pages
+1. You can just read the text
+2. You can look at the code
+3. You can work through the excercises.
 
-The About page is a common convention found on websites.
-It is your opportunity to let us know all the details "about" your project:
-
-- focus and topic area
-- people involved
-- code and projects used
-- some new changes
+Hope you'll fun working it out!
