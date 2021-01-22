@@ -1,1 +1,9 @@
+# basic options
+title: Laputas
+author: Avijeet Prasad
+email: ap0162@uah.edu 
+description: A blog about Life, Universe and Everything!
+github_username: AvijeetPrasad
+
+# Build settings
 theme: jekyll-theme-slate
