@@ -7,4 +7,4 @@ Here we plan to write blogs on various topics in physics. We intend to write it 
 
 Hope you'll fun working it out!
 
-[high energy protons](https://jekyllrb.com/docs/installation/macos/)
+[high energy protons](https://github.com/AvijeetPrasad/laputas/blob/main/high_energy_protons.ipynb)
