@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+
 ---
 
 Here we plan to write blogs on various topics in physics.
