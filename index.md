@@ -9,6 +9,6 @@ Here we plan to write blogs on various topics in physics. We intend to write it 
 
 You can just read the text
 You can look at the code
-You can work through the excercises.
+You can work through the exercises.
 
 Hope you’ll fun working it out!
