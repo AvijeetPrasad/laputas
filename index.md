@@ -15,12 +15,14 @@ to ask even bigger and deeper questions.
 
 In this webpage, we aim to cover some of the intricacies and nuances 
 associated with many of the facets of physics, 
-including some of these unresolved problems. 
+including some of these unresolved problems. We will cover topics
+ranging from high energy physics to astrophysics. 
 
-We have divided the content in three levels:
+We have divided the content into three levels:
 
-You can just read the text
-You can look at the code
-You can work through the exercises.
+1. A general reader can get the basic idea from the text.
+2. A more interested reader can grasp the ideas better throught the equations.
+3. An advanced reader can tinker with the code on the Google Colab page.
 
-Hope you’ll fun working it out!
+In each of the articles we also suggest some problems for the readers to try out on their own.
+Hope you’ll have fun working it out!
