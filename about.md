@@ -26,7 +26,6 @@ He has more than 250 publications in international journals. He is a fellow of t
 He has authored/co-authored seven books on topics ranging from astrophysics, cosmology to astrobiology and rocket dynamics.
 
 ---
-![Arun Kenath](arun.jpg)
 **Arun Kenath** is an avid physicist and academician. He is the recipient of six gold medals from Bangalore University. He has a PhD in Physics (Astrophysics). His primary area of expertise is cosmology and theoretical astrophysics. He has been an invited speaker to various institutions, on topics ranging from cosmology to artificial intelligence. He serves in the editorial board of three international peer-review journals/newsletters. He has published papers in various international journals, and has authored four books on astrophysics and astrobiology. He currently works as a lecturer at the Department of Physics, Christ Junior College, Bangalore.
 
 ---
